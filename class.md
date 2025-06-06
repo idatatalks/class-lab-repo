@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Yuan You]  
+- Certification: [Yuan You]  
 
 ## Instructions
 Please replace the placeholders with your details:
